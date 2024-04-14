@@ -16,5 +16,6 @@ The Garbage Truck Tracking System is a web-based application designed to enhance
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP, MySQL
 - **Hardware:** Arduino Mega, GPS Module, WiFi Module
+- **Server:** Xampp Server
 
 This project aims to streamline waste management operations, improve community engagement, and contribute to a cleaner and more sustainable environment.
